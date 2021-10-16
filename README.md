@@ -15,7 +15,7 @@ Você deve criar um site que com uma série de informações a respeito do que v
   </summary>
   <ul>
     <li>
-      - Possuir cor de fundo: rgb(253, 251, 251)
+      Possuir cor de fundo: rgb(253, 251, 251)
     </li>
   </ul>
 </details>
@@ -28,10 +28,10 @@ Você deve criar um site que com uma série de informações a respeito do que v
       A barra deve possuir o ID "cabecalho"
     </li>
     <li>
-      O elemento com o id `cabecalho` deve ser fixo no topo da página, com a propriedade top tendo `0px`
+      O elemento com o id <kbd>cabecalho</kbd> deve ser fixo no topo da página, com a propriedade top tendo <kbd>0px</kbd>
     </li>
     <li>
-      O título deve estar dentro da barra e possuir o ID "titulo", além de ser uma tag `h1`
+      O título deve estar dentro da barra e possuir o ID "titulo", além de ser uma tag <kbd>h1</kbd>
     </li>
   </ul>
 </details>
@@ -41,7 +41,7 @@ Você deve criar um site que com uma série de informações a respeito do que v
   </summary>
   <ul>
     <li>
-      A foto deve ser inserida utilizando uma tag `img` com o ID "minha_foto"
+      A foto deve ser inserida utilizando uma tag <kbd>img</kbd> com o ID "minha_foto"
     </li>
   </ul>
 </details>
@@ -66,7 +66,7 @@ Você deve criar um site que com uma série de informações a respeito do que v
   </summary>
   <ul>
     <li>
-      A lista **não** deve ser numerada e deve possuir o ID "licoes_a_aprender"
+      A lista <strong>não</strong> deve ser numerada e deve possuir o ID "licoes_a_aprender"
     </li>
     <li>
       A lista deve possuir 10 itens
@@ -80,7 +80,7 @@ Você deve criar um site que com uma série de informações a respeito do que v
   </summary>
   <ul>
     <li>
-      O rodapé deve utilizar a tag `footer` e possuir o ID "rodape"
+      O rodapé deve utilizar a tag <kbd>footer</kbd> e possuir o ID "rodape"
     </li>
   </ul>
 </details>
@@ -102,7 +102,7 @@ Você deve criar um site que com uma série de informações a respeito do que v
   </summary>
   <ul>
     <li>
-      A `tag` `article` devem ser utilizadas
+      A <kbd>tag</kbd> <kbd>article</kbd> devem ser utilizadas
     </li>
     <li>
       O artigo deve ter mais de 300 letras e menos de 600
@@ -116,7 +116,7 @@ Você deve criar um site que com uma série de informações a respeito do que v
   </summary>
   <ul>
     <li>
-      A `tag` `aside` deve ser utilizada
+      A <kbd>tag</kbd> <kbd>aside</kbd> deve ser utilizada
     </li>
     <li>
       A seção deve ter mais que 100 letras e menos que 300
@@ -130,22 +130,22 @@ Você deve criar um site que com uma série de informações a respeito do que v
   </summary>
   <ul>
     <li>
-      A página deve possuir um elemento `article`
+      A página deve possuir um elemento <kbd>article</kbd>
     </li>
     <li>
-      A página deve possuir um elemento `header`
+      A página deve possuir um elemento <kbd>header</kbd>
     </li>
     <li>
-      A página deve possuir um elemento `nav`
+      A página deve possuir um elemento <kbd>nav</kbd>
     </li>
     <li>
-      A página deve possuir um elemento `section`
+      A página deve possuir um elemento <kbd>section</kbd>
     </li>
     <li>
-      A página deve possuir um elemento `aside`
+      A página deve possuir um elemento <kbd>aside</kbd>
     </li>
     <li>
-      A página deve possuir um elemento `footer`
+      A página deve possuir um elemento <kbd>footer</kbd>
     </li>
   </ul>
 </details>
@@ -178,7 +178,7 @@ Você deve criar um site que com uma série de informações a respeito do que v
   </summary>
   <ul>
     <li>
-      Altere `margin`, `padding` e `border` dos elementos para ver, na prática, como esses atributos influenciam e melhoram a visualização dos componentes
+      Altere <kbd>margin</kbd>, <kbd>padding</kbd> e <kbd>border</kbd> dos elementos para ver, na prática, como esses atributos influenciam e melhoram a visualização dos componentes
     </li>
   </ul>
 </details>
@@ -197,7 +197,7 @@ Você deve criar um site que com uma série de informações a respeito do que v
       Altere o espaçamento entre as linhas
     </li>
     <li>
-      Altere o `font-family`
+      Altere o <kbd>font-family</kbd>
     </li>
   </ul>
 </details>
