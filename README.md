@@ -1,14 +1,40 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-## Requisitos do projeto
+![](https://socialify.git.ci/rafaelgeronimo/trybe-project-lessons-learned/image?description=1&descriptionEditable=%5BTrybe%20Project%5D%20Lessons%20Learned&font=Bitter&language=1&owner=1&pattern=Circuit%20Board&theme=Light)
 
-Você deve criar um site que com uma série de informações a respeito do que você aprendeu nos últimos três blocos, estilizado de forma apropriada.
+
+## 📝Sobre
+
+Primeiro projeto desenvolvido pela Trybe, onde exercitamos alguns conceitos aprendidos nas aulas iniciais com HTML e CSS.
+
+---
+## 🚀Demo
+http://rafaelgeronimo.me/trybe-project-lessons-learned/
+
+---
+
+## 🖼 Screenshot
+
+![](./assets/img/screenshot.png)
+
+## 🛠 Instalação
+
+Não é necessário instalar esse projeto. Basta executar o arquivo `index.html`
+
+---
+## 💻 Tecnologias
+Esse projeto foi construído com:
+- HTML
+- CSS
+
+---
+## 📝Requisitos do projeto
+| Abaixo, a descrição na íntegra de todos os requisitos do projeto:
+
+Deve ser criado um site com uma série de informações a respeito do que foi aprendido nos últimos três blocos, estilizado de forma apropriada.
 
 **Em outras palavras, uma página de `Lessons Learned`**;
-
-
-
-## Requisitos Obrigatórios:
+### Requisitos Obrigatórios:
 <details>
   <summary>
     1 - O corpo da página deve possuir uma cor de fundo específica
@@ -161,7 +187,7 @@ Você deve criar um site que com uma série de informações a respeito do que v
   </ul>
 </details>
 
-## Requisitos Bônus:
+### Requisitos Bônus:
 <details>
   <summary>
     12 - Adicione uma tabela à página
@@ -219,3 +245,5 @@ Você deve criar um site que com uma série de informações a respeito do que v
 </details>
 
 ---
+
+
