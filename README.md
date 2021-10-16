@@ -5,7 +5,7 @@
 
 ## 📝Sobre
 
-Primeiro projeto desenvolvido pela Trybe, onde exercitamos alguns conceitos aprendidos nas aulas iniciais com HTML e CSS.
+Primeiro projeto desenvolvido pela Trybe, onde colocamos em prática alguns conceitos aprendidos nas aulas iniciais com HTML e CSS.
 
 ## 🚀Demo
 http://rafaelgeronimo.me/trybe-project-lessons-learned/
