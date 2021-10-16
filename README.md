@@ -7,11 +7,8 @@
 
 Primeiro projeto desenvolvido pela Trybe, onde exercitamos alguns conceitos aprendidos nas aulas iniciais com HTML e CSS.
 
----
 ## 🚀Demo
 http://rafaelgeronimo.me/trybe-project-lessons-learned/
-
----
 
 ## 🖼 Screenshot
 
@@ -21,13 +18,11 @@ http://rafaelgeronimo.me/trybe-project-lessons-learned/
 
 Não é necessário instalar esse projeto. Basta executar o arquivo `index.html`
 
----
 ## 💻 Tecnologias
 Esse projeto foi construído com:
 - HTML
 - CSS
 
----
 ## 📝Requisitos do projeto
 | Abaixo, a descrição na íntegra de todos os requisitos do projeto:
 
@@ -243,7 +238,3 @@ Deve ser criado um site com uma série de informações a respeito do que foi ap
     </li>
   </ul>
 </details>
-
----
-
-
