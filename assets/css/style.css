@@ -29,6 +29,11 @@ figure {
   max-width: 250px;
 }
 
+.fa-brands {
+  font-size: 2rem;
+  padding-top: 25px;
+}
+
 #links a {
   color: white;
   font-size: 1.2rem;
@@ -55,16 +60,32 @@ ul li , ol li {
 
 .lado-esquerdo {
   float: left;
+  max-width: 24vw;
 }
 
 .lado-direito {
   float: right;
+  max-width: 24vw;
   padding-left: 50px;
 }
 
+#aprendizado {
+  margin: 0 auto;
+  max-width: 49vw;
+}
+
+.titulo_lista {
+  font-size: 1.2rem;
+  font-weight: 700;
+}
+
+#passagem {
+  margin: 3rem auto;
+  max-width: 50vw;
+}
+
 table {
-  border: 1px;
-  border-style: dotted;
+  border: 1px dotted rgb(253, 251, 251);
   color: rgb(253 , 251 , 251);
   font-family: Arial, Helvetica, sans-serif;
   font-size: 1.3rem;
@@ -78,4 +99,11 @@ table {
   background-color: rgb(52 , 56 , 55);
   padding: 10px 0;
   text-align: center;
+}
+
+@media only screen and (max-width: 705px) {
+  main {
+    display: flex;
+    flex-direction: column;
+  }
 }
