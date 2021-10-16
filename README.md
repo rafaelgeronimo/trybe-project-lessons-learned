@@ -3,7 +3,7 @@
 ![](https://socialify.git.ci/rafaelgeronimo/trybe-project-lessons-learned/image?description=1&descriptionEditable=%5BTrybe%20Project%5D%20Lessons%20Learned&font=Bitter&language=1&owner=1&pattern=Circuit%20Board&theme=Light)
 
 
-## 📝Sobre
+## 📗 Sobre
 
 Primeiro projeto desenvolvido pela Trybe, onde colocamos em prática alguns conceitos aprendidos nas aulas iniciais com HTML e CSS.
 
