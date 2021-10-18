@@ -7,6 +7,10 @@
 
 Primeiro projeto desenvolvido pela Trybe, onde colocamos em prática alguns conceitos aprendidos nas aulas iniciais com HTML e CSS.
 
+**Módulo**: Fundamentos do Desenvolvimento Web
+
+**Bloco**: Introdução à HTML e CSS
+
 ## 🚀Demo
 http://rafaelgeronimo.me/trybe-project-lessons-learned/
 
