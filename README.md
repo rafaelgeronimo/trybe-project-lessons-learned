@@ -11,7 +11,7 @@ Primeiro projeto desenvolvido pela Trybe, onde colocamos em prática alguns conc
 
 **Bloco**: Introdução à HTML e CSS
 
-## 🚀Demo
+## 🚀 Demo
 http://rafaelgeronimo.me/trybe-project-lessons-learned/
 
 ## 🖼 Screenshot
